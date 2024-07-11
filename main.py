@@ -1,6 +1,6 @@
 import random, datetime, telebot, os
 
-bot = telebot.TeleBot("")
+bot = telebot.TeleBot("6598331175:AAEElM2-nLb6WdILhpiWHAg5JeQAiolh7xc")
 
 @bot.message_handler(commands=['start', 'help'])
 def send_welcome(message):
