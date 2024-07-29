@@ -1,3 +1,4 @@
 telebot
 requests
-Tele
+faker
+beautifulsoup4
