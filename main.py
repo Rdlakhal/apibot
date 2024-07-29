@@ -2,7 +2,7 @@ import requests
 import telebot
 from telebot import types
 from gatet import Tele 
-token = "7494872205:AAH2AOyR15KJIdVZVBRgnBxBNSFXC5jPp-o" 
+token = "7361180920:AAFKMB3zhLzqCnL3ZGkXnzXdISfUTeHeD3g" 
 bot=telebot.TeleBot(token,parse_mode="HTML")
 
 @bot.message_handler(commands=["start"])
