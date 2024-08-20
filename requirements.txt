@@ -144,7 +144,7 @@ utils==1.0.2
 webencodings==0.5.1
 websocket==0.2.1
 websocket-client==1.7.0
-user_agent
-pycountry
-instaloader
-phonenumbers
+user-agent==0.1.10
+pycountry==24.6.1
+instaloader==4.13
+phonenumbers==8.13.43
