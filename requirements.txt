@@ -77,4 +77,3 @@ wcwidth==0.2.12
 webencodings==0.5.1
 Werkzeug==3.0.1
 yarl==1.9.4
-threading
