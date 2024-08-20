@@ -78,4 +78,3 @@ webencodings==0.5.1
 Werkzeug==3.0.1
 yarl==1.9.4
 psutil==5.9.4
-types
