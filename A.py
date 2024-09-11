@@ -4,7 +4,7 @@ import sys
 import subprocess
 from telebot import TeleBot, types
 
-API_TOKEN = "6598331175:AAEElM2-nLb6WdILhpiWHAg5JeQAiolh7xc"
+API_TOKEN = "7467340159:AAG6FRBVzdvB4QG6M_1UOvjpzp2mTZIpUUY"
 bot = TeleBot(API_TOKEN)
 
 # قائمة معرّفات المسؤولين
