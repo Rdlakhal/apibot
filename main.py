@@ -1325,7 +1325,7 @@ def respond_to_vhk(message):
 {str(dato(cc[:6]))}
 - Process Time -> {"{:.1f}".format(execution_time)} Seconds. 
 --------------------------------------------
-- Programmer • @Lx0b2</b>'''
+- Programmer • @Rdhhe</b>'''
 
         if 'CVV' in last or 'CCN' in last:
             bot.edit_message_text(text=cvc, chat_id=message.chat.id, message_id=ko)
@@ -1430,7 +1430,7 @@ def respond_to_vhk(message):
 {str(dato(cc[:6]))}
 
 ϟ Time -> {"{:.1f}".format(execution_time)} Seconds. 
-ϟ - Programmer -> @Lx0b2⚡</b>'''
+ϟ - Programmer -> @Rdhhe⚡</b>'''
 
         ok = f'''<b>• Approved ✅
 
@@ -1441,7 +1441,7 @@ def respond_to_vhk(message):
 {str(dato(cc[:6]))}
 
 ϟ Time -> {"{:.1f}".format(execution_time)} Seconds. 
-ϟ - Programmer -> @Lx0b2⚡</b>'''
+ϟ - Programmer -> @Rdhhe⚡</b>'''
 
         cvc = f'''<b>• Cvv Card ☑️        
 --------------------------------------------
@@ -1452,7 +1452,7 @@ def respond_to_vhk(message):
 {str(dato(cc[:6]))}
 - Process Time -> {"{:.1f}".format(execution_time)} Seconds. 
 --------------------------------------------
-- Programmer • @Lx0b2</b>'''
+- Programmer • @Rdhhe</b>'''
 
         if 'CVV' in last or 'CCN' in last:
             bot.edit_message_text(text=cvc, chat_id=message.chat.id, message_id=ko)
@@ -1462,10 +1462,10 @@ def respond_to_vhk(message):
             bot.edit_message_text(text=dec, chat_id=message.chat.id, message_id=ko)
     else:
         bot.reply_to(message, f'''- Welcome Dear ♡!
-You are Not Subscribed KilwaChk BOT !❌
+You are Not Subscribed !❌
 
 Your ID : {message.chat.id}
-Programmer - @Lx0b2''')
+Programmer - @Rdhhe''')
 
 
 
@@ -1548,7 +1548,7 @@ def respond_to_vhk(message):
 {str(dato(cc[:6]))}
 
 ϟ Time -> {"{:.1f}".format(execution_time)} Seconds. 
-ϟ - Programmer -> @Lx0b2⚡</b>'''
+ϟ - Programmer -> @Rdhhe⚡</b>'''
 
         ok = f'''<b>• Approved ✅
 
@@ -1559,7 +1559,7 @@ def respond_to_vhk(message):
 {str(dato(cc[:6]))}
 
 ϟ Time -> {"{:.1f}".format(execution_time)} Seconds. 
-ϟ - Programmer -> @Lx0b2⚡</b>'''
+ϟ - Programmer -> @Rdhhe⚡</b>'''
 
         cvc = f'''<b>• Cvv Card ☑️        
 --------------------------------------------
@@ -1570,7 +1570,7 @@ def respond_to_vhk(message):
 {str(dato(cc[:6]))}
 - Process Time -> {"{:.1f}".format(execution_time)} Seconds. 
 --------------------------------------------
-- Programmer • @Lx0b2</b>'''
+- Programmer • @Rdhhe</b>'''
 
         if 'CVV' in last or 'CCN' in last:
             bot.edit_message_text(text=cvc, chat_id=message.chat.id, message_id=ko)
@@ -1580,10 +1580,10 @@ def respond_to_vhk(message):
             bot.edit_message_text(text=dec, chat_id=message.chat.id, message_id=ko)
     else:
         bot.reply_to(message, f'''- Welcome Dear ♡!
-You are Not Subscribed KilwaChk BOT !❌
+You are Not Subscribed radouane BOT !❌
 
 Your ID : {message.chat.id}
-Programmer - @Lx0b2''')
+Programmer - @Rdhhe''')
 
 
 
@@ -1667,7 +1667,7 @@ def respond_to_vhk(message):
 {str(dato(cc[:6]))}
 
 ϟ Time -> {"{:.1f}".format(execution_time)} Seconds. 
-ϟ - Programmer -> @Lx0b2⚡</b>'''
+ϟ - Programmer -> @Rdhhe⚡</b>'''
 
         ok = f'''<b>• Approved ✅
 
@@ -1689,7 +1689,7 @@ def respond_to_vhk(message):
 {str(dato(cc[:6]))}
 - Process Time -> {"{:.1f}".format(execution_time)} Seconds. 
 --------------------------------------------
-- Programmer • @Lx0b2</b>'''
+- Programmer • @Rdhhe</b>'''
 
         if 'CVV' in last or 'CCN' in last:
             bot.edit_message_text(text=cvc, chat_id=message.chat.id, message_id=ko)
@@ -1833,7 +1833,7 @@ def respond_to_vhk(message):
 {str(dato(cc[:6]))}
 
 ϟ Time -> {"{:.1f}".format(execution_time)} Seconds. 
-ϟ - Programmer -> @Lx0b2⚡</b>'''
+ϟ - Programmer -> @Rdhhe⚡</b>'''
 
         ok = f'''<b>• Approved ✅
 
@@ -1844,7 +1844,7 @@ def respond_to_vhk(message):
 {str(dato(cc[:6]))}
 
 ϟ Time -> {"{:.1f}".format(execution_time)} Seconds. 
-ϟ - Programmer -> @Lx0b2⚡</b>'''
+ϟ - Programmer -> @Rdhhe⚡</b>'''
 
         cvc = f'''<b>• Cvv Card ☑️        
 --------------------------------------------
@@ -1855,7 +1855,7 @@ def respond_to_vhk(message):
 {str(dato(cc[:6]))}
 - Process Time -> {"{:.1f}".format(execution_time)} Seconds. 
 --------------------------------------------
-- Programmer • @Lx0b2</b>'''
+- Programmer • @Rdhhe</b>'''
 
         if 'CVV' in last or 'CCN' in last:
             bot.edit_message_text(text=cvc, chat_id=message.chat.id, message_id=ko)
@@ -1868,7 +1868,7 @@ def respond_to_vhk(message):
 You are Not Subscribed KilwaChk BOT !❌
 
 Your ID : {message.chat.id}
-Programmer - @Lx0b2''')
+Programmer - @Rdhhe''')
 
 
 
