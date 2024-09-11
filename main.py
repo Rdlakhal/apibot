@@ -78,7 +78,7 @@ def start(message):
 ϟ Youre Not Subscribed in Check World Bot ❌
 
 ϟ For Show Bot Prices Send -> /prices
-ϟ Programmer ~ @Lx0b2 </b>''',reply_markup=keyboard)
+ϟ Programmer ~ @Rdhhe </b>''',reply_markup=keyboard)
 			return
 		keyboard = types.InlineKeyboardMarkup()
 		contact_button = types.InlineKeyboardButton(text="ϟ Our Channel ϟ", url="https://t.me/Pythonln")
