@@ -18,15 +18,15 @@ import time
 from telebot import types
 
 stopuser = {}
-token = "6598331175:AAEElM2-nLb6WdILhpiWHAg5JeQAiolh7xc"
+token = "7467340159:AAG6FRBVzdvB4QG6M_1UOvjpzp2mTZIpUUY"
 bot=telebot.TeleBot(token,parse_mode="HTML")
 
 
-admin=1643196003
+admin=6265039809
 
-myid = ['1643196003']
+myid = ['6265039809']
 
-admins = ['1643196003']
+admins = ['6265039809']
 
 
 
