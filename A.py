@@ -8,7 +8,7 @@ API_TOKEN = "7467340159:AAG6FRBVzdvB4QG6M_1UOvjpzp2mTZIpUUY"
 bot = TeleBot(API_TOKEN)
 
 # قائمة معرّفات المسؤولين
-admins = ['1643196003', '1643196003']
+admins = ['6265039809', '6265039809']
 
 # مسار المجلد الذي يحتوي على ملفات البوت
 BOT_FOLDER = '.'
